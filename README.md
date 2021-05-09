@@ -1,3 +1,6 @@
-# Flaskr Blog
+Flaskr
+======
 
-https://flask.palletsprojects.com/en/1.1.x/tutorial/
+The basic blog app built in the Flask `tutorial`_.
+
+.. _tutorial: http://flask.pocoo.org/docs/tutorial/
