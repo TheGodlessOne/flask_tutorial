@@ -1,6 +1,14 @@
-# virtual environment 
-env/
 venv/
-
-# pycharm files 
-.idea/ 
+*.pyc
+__pycache__/
+instance/
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+dist/
+build/
+*.egg-info/
+.idea/
+*.swp
+*~
